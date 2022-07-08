@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Tops Ads React Video Player Taks
+
+The task is UI/UX focused and is about building a video player which is as close as possible to the YouTube player which includes : 
+
+- Fast forward / backward of the video on "tap" from mobile
+- Automatic Fullscreen via fullscreen API when device is landscape mode (from mobile)
+- Custom Controls as close as possible to the YouTube player (play/pause, fullscreen, and so on)
+
+Those are the basic features needed. Anything else you might want to include will be highly appreciated :)
+
+For the video you can use https://download.blender.org/peach/bigbuckbunny_movies/ this one (which is a pretty famous video used for prototypes) or anything else of your choice.
+
+Stack used will be React (Typescript) and tailwindcss (or styled components if you prefer). 
+As a project starter you can use NextJS, create-react-app or any other bootstrap you like.
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
